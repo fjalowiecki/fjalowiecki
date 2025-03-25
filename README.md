@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-I'm a 42 Warsaw student passionate about building innovative projects that solve real-world problems. I thrive on challenges, enjoy collaborating with others, and always look for ways to improve my skills in both systems programming and web development.
-
-## 🚀 What I Do
-
-I specialize in creating both low-level system applications and modern web solutions. Whether it's a lightweight HTTP server in C++ or a dynamic website built with Django, I bring dedication, creativity, and technical expertise to every project.
+I'm a 42 Warsaw student focused on building projects that solve real problems. I love tackling challenges, working with others, and constantly sharpening my skills in systems programming and web development. Here are a few highlights of what I've been working on:
 
 ## 🔥 Latest Projects
 
