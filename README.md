@@ -6,11 +6,11 @@ I'm a 42 Warsaw student focused on building projects that solve real problems. I
 
 ### [📌 42-webserv](https://github.com/Grabarz01/webserv)
 A lightweight HTTP web server implemented in C++.
-Developed collaboratively with [Grabarz01](https://github.com/Grabarz01).
+Developed collaboratively with [F. Grabowski](https://github.com/Grabarz01).
 
 ### [📌 42-minishell](https://github.com/fjalowiecki/42-minishell)
 A minimalistic shell implementation in C, replicating basic functionalities of a Unix shell.
-Developed collaboratively with [Grabarz01](https://github.com/Grabarz01).
+Developed collaboratively with [F. Grabowski](https://github.com/Grabarz01).
 
 ### [📌 bbi_site](https://github.com/fjalowiecki/bbi_site)
 A website that serves as a hub for local NGO social projects, built with Django using Tailwind and JavaScript (work in progress).
@@ -19,7 +19,7 @@ A website that serves as a hub for local NGO social projects, built with Django 
 
 ### [📌 42-minirt](https://github.com/fjalowiecki/42-minirt)
 A minimal ray tracing project implemented in C.
-Developed collaboratively with [Grabarz01](https://github.com/Grabarz01).
+Developed collaboratively with [F. Grabowski](https://github.com/Grabarz01).
 
 ### [📌 42-pipex](https://github.com/fjalowiecki/42-pipex)
 A project developed in C that demonstrates inter-process communication using pipes.
